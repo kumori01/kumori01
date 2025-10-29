@@ -66,7 +66,7 @@ I’m a computer science student majoring in AI. when I’m bored, you’ll find
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumoriiii&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumori01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
