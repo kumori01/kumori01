@@ -71,16 +71,6 @@ I’m a computer science student majoring in AI. when I’m bored, you’ll find
 </div>
 
 
----
-
-<h3 align="center">lets be friends :D</h3>
-<p align="center">
-<a href="https://instagram.com/rufiipufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rufiipufi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kumori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kumori" height="30" width="40" /></a>
-<a href="https://discord.com/users/328303595550408704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="328303595550408704" height="30" width="40" /></a>
-</p>
-
-
 <p align="center">
   <img src="kirby the dreamlander.gif" alt="Banner" width="600"/>
 </p>
